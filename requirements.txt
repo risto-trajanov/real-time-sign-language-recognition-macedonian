@@ -1,0 +1,4 @@
+opencv-python == 4.5.2.54
+numpy == 1.19.5
+pandas == 1.2.5
+pyqt == 5.15.4

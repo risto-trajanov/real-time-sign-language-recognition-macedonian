@@ -1,0 +1,26 @@
+<annotation>
+  <folder>a</folder>
+  <filename>a.4c1c8db4-d400-11eb-80f6-5cf3709ec7ac.jpg</filename>
+  <path>C:\Users\Riste\Desktop\Project\RealTimeSignLanguageDetectionwithTFJS\collected_images\a\a.4c1c8db4-d400-11eb-80f6-5cf3709ec7ac.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>a</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>348</xmin>
+      <ymin>166</ymin>
+      <xmax>515</xmax>
+      <ymax>318</ymax>
+    </bndbox>
+  </object>
+</annotation>
