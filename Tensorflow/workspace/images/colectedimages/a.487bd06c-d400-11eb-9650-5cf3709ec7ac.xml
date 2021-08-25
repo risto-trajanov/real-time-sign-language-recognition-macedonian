@@ -1,7 +1,7 @@
 <annotation>
   <folder>a</folder>
-  <filename>a.413b9838-d400-11eb-ab06-5cf3709ec7ac.jpg</filename>
-  <path>C:\Users\Riste\Desktop\Project\RealTimeSignLanguageDetectionwithTFJS\collected_images\a\a.413b9838-d400-11eb-ab06-5cf3709ec7ac.jpg</path>
+  <filename>a.487bd06c-d400-11eb-9650-5cf3709ec7ac</filename>
+  <path>C:\Users\Riste\Desktop\Project\RealTimeSignLanguageDetectionwithTFJS\collected_images\a\a.487bd06c-d400-11eb-9650-5cf3709ec7ac.jpg</path>
   <source>
     <database>Unknown</database>
   </source>
@@ -17,10 +17,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>158</xmin>
-      <ymin>218</ymin>
-      <xmax>319</xmax>
-      <ymax>366</ymax>
+      <xmin>436</xmin>
+      <ymin>105</ymin>
+      <xmax>588</xmax>
+      <ymax>256</ymax>
     </bndbox>
   </object>
 </annotation>
