@@ -11,7 +11,7 @@
 
 
 ## Label IMG Shortcuts
-` Ctrl + u - Load all of the images from a directory
+Ctrl + u - Load all of the images from a directory
 
 Ctrl + r - Change the default annotation target dir
 
@@ -33,4 +33,4 @@ Ctrl + d - Copy the current label and rect box
 
 Space - Flag the current image as verified
 
-↑→↓←Keyboard arrows to move selected rect box`
+↑→↓←Keyboard arrows to move selected rect box
