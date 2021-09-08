@@ -4,7 +4,7 @@
 1. `pip install -r requirements.txt`
 2. Use `Image Collection.ipynb` to take the images
 3. Move them to `workspace/images/colectedimages` 
-4. Go to `labelImg` 
+4. Go to `labelImg` folder
 5. `python labelImg.py`
 6. Use Open Dir and select `workspace/images/colectedimages`
 7. Change Save Dir to `workspace/images/colectedimages`
