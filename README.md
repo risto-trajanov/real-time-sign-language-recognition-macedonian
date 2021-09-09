@@ -45,5 +45,5 @@ Space - Flag the current image as verified
 ## To-do
 
 1. work out the real time solution in predictions.ipynb
-2. Train on more images
+2. Train on more images -> Done
 3. Write documentation overleaf
