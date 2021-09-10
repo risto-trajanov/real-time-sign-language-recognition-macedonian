@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>a.fe380ee8-1176-11ec-ab0c-5cf3709ec7ac.jpg</filename>
+	<path>C:\Users\Riste\Desktop\Project\collectedimages\a.fe380ee8-1176-11ec-ab0c-5cf3709ec7ac.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>401</xmin>
+			<ymin>117</ymin>
+			<xmax>604</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

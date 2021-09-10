@@ -1,0 +1,26 @@
+<annotation>
+	<folder>b</folder>
+	<filename>b.ea10d618-1185-11ec-8921-43976e34675b.jpg</filename>
+	<path>/home/anglea/real-time-sign-language-recognition-macedonian-main/collected_images/b/b.ea10d618-1185-11ec-8921-43976e34675b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>286</ymin>
+			<xmax>490</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>
