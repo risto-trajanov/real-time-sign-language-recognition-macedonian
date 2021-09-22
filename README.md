@@ -36,6 +36,9 @@ Space - Flag the current image as verified
 
 ↑→↓←Keyboard arrows to move selected rect box
 
+## Image augmentation
+1. 
+
 ## Model train -> Do this in Colab
 
 1. Run `pipeline.ipynb` in colab env
@@ -44,6 +47,12 @@ Space - Flag the current image as verified
 
 ## To-do
 
-1. work out the real time solution in predictions.ipynb
+1. work out the real time solution in predictions.ipynb -> Done
 2. Train on more images -> Done
 3. Write documentation overleaf
+
+## Real-time preview
+
+
+https://user-images.githubusercontent.com/20928090/134403004-20648ece-00da-485e-9ad6-d320d94c90c1.mov
+
