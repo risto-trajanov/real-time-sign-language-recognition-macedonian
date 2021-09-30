@@ -46,11 +46,15 @@ Space - Flag the current image as verified
 2. There are a few paths that need to be adjusted to the directory in which you will clone the repo
 3. Test it with predictions.ipynb
 
+## Predictions -> Do this in Colab
+
+1. Run `predictions.ipynb` in Colab env after you completed `pipeline.ipynb`
+
 ## To-do
 
 1. work out the real time solution in predictions.ipynb -> Done
 2. Train on more images -> Done
-3. Write documentation overleaf
+3. Write documentation overleaf -> Done
 
 ## Real-time preview
 
