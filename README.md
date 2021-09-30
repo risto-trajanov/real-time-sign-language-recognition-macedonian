@@ -37,7 +37,8 @@ Space - Flag the current image as verified
 ↑→↓←Keyboard arrows to move selected rect box
 
 ## Image augmentation
-1. 
+1. Image augmentation done with [imgaug](https://github.com/aleju/imgaug)
+2. [Link](https://github.com/risto-trajanov/real-time-sign-language-recognition-macedonian/blob/main/workspace/augmentation.ipynb) to augmentation notebook
 
 ## Model train -> Do this in Colab
 
